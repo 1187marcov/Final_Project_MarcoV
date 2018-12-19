@@ -104,3 +104,10 @@ body {
 #card_3{
     font-size: .9em;
 }
+.margins{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.margin-top{
+    margin-top: 1em;
+}
